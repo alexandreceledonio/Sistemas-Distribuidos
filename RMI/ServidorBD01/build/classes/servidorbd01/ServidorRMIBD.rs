@@ -1,0 +1,1 @@
+servidorbd01.ServidorRMIDB
